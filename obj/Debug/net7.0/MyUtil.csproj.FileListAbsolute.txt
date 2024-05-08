@@ -9,3 +9,4 @@
 /Users/saeyoungryu/Project/MyUtil/obj/Debug/net7.0/refint/MyUtil.dll
 /Users/saeyoungryu/Project/MyUtil/obj/Debug/net7.0/MyUtil.pdb
 /Users/saeyoungryu/Project/MyUtil/obj/Debug/net7.0/ref/MyUtil.dll
+/Users/saeyoungryu/Project/MyUtil/obj/Debug/net7.0/MyUtil.sourcelink.json
